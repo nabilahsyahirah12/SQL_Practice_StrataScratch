@@ -1,4 +1,4 @@
-## StrataScratch practice exercise - with MySQL Server
+## StrataScratch Practice Exercise - with MySQL Server
 These are scripts that answer questions from [StrataScratch](https://www.stratascratch.com/). Links to questions and my answers are below!
 
 ## My Solutions
