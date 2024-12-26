@@ -7,6 +7,7 @@ These are scripts that answer questions from [StrataScratch](https://www.stratas
 
 | ID | Title | My Solution |
 | --- | --- | --- |
+| [9847](https://platform.stratascratch.com/coding/9847-find-the-number-of-workers-by-department?code_type=3) | Number of Workers by Department Starting in April or Later | [SQL](https://github.com/nabilahsyahirah12/SQL_Practice_StrataScratch/blob/main/Easy/9847_Number%20of%20Workers%20by%20Department%20Starting%20in%20April%20or%20Later.sql)
 | [10003](https://platform.stratascratch.com/coding/10003-lyft-driver-wages?code_type=3) | Lyft Driver Wages | [SQL](https://github.com/nabilahsyahirah12/SQL_Practice_StrataScratch/blob/main/Easy/10003_Lyft_Driver_Wages.sql)
 | [10087](https://platform.stratascratch.com/coding/10087-find-all-posts-which-were-reacted-to-with-a-heart?code_type=3) | Find all posts which were reacted to with a heart | [SQL](https://github.com/nabilahsyahirah12/SQL_Practice_StrataScratch/blob/main/Easy/10087_Find_all_posts_which_were_reacted_to_with_a_heart.sql)
 | [10128](https://platform.stratascratch.com/coding/10128-count-the-number-of-movies-that-abigail-breslin-nominated-for-oscar?code_type=5) | Count the number of movies that Abigail Breslin nominated for oscar | [SQL](https://github.com/nabilahsyahirah12/SQL_Practice_StrataScratch/blob/main/Easy/10128_Count_the_number_of_movies_that_Abigail_Breslin_nominated_for_oscar.sql)
